@@ -1,3 +1,5 @@
-# d-kit
+# Dark Kit
 
-Welcome to d-kit!
+Welcome to the Dark Kit documentation.
+
+This is a dark themed design kit project.
